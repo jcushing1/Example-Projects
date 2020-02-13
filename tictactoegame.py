@@ -4,9 +4,7 @@
 Created on Tue Feb  5 08:15:58 2019
 
 #############################################
-#Johannah Cushing
-#February 8, 2019
-#Alpha Beta Search for Generalized Tic-Tac-Toe
+#Alpha-Beta Search for Generalized Tic-Tac-Toe
 #############################################
 
 import numpy as np
